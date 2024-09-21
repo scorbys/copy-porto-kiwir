@@ -1,0 +1,14 @@
+** Shadcn Installation **
+- npx shadcn@latest init -d
+
+** Button
+- npx shadcn@latest add button
+
+** Input form
+- npx shadcn@latest add input
+
+**  Sheet for burgermenu
+- npx shadcn@latest add sheet
+
+** Navigation Menu
+- npx shadcn@latest add navigation-menu
