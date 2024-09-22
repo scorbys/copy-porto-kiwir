@@ -4,7 +4,7 @@ import imgBanner from "../assets/Banner.jpeg"
 
 export default function Component() {
   return (
-    <div className="flex flex-col w-full h-[50hv] min-h-[200px] max-h-[600px]">
+    <div className="flex flex-col w-full h-[50hv] min-h-[200px] max-h-[600px] mt-10 overflow-hidden">
       <AspectRatio ratio={24 / 9} className="bg-muted">
         <Image
           src={imgBanner}

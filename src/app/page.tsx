@@ -6,7 +6,7 @@ import Career from "./landing_page/career";
 
 export default function Home() {
   return (
-    <main className="flex  flex-col items-center justify-between p-10">
+    <main className="flex flex-col items-center justify-between p-10">
       <Heroimg />
       <Business />
       <Career />
