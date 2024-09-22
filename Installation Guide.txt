@@ -12,3 +12,6 @@
 
 ** Navigation Menu
 - npx shadcn@latest add navigation-menu
+
+** If material Ui error 
+- npm install @mui/material @emotion/react @emotion/styled @mui/material-nextjs @emotion/cache
