@@ -57,7 +57,7 @@ const Business = (props: any) => {
               </button>
             </div>
           </div>
-          <div className="bg-red-300 text-white p-6 relative">
+          <div className="bg-red-300 text-white p-6 relative md:row-span-2 grid grid-cols-1 md:grid-cols-2 gap-4">
             <Image
               src="/placeholder.svg?height=200&width=300"
               alt="Business 3 background"
@@ -80,7 +80,7 @@ const Business = (props: any) => {
               </button>
             </div>
           </div>
-          <div className="md:col-span-2 bg-white p-6 relative bg-blue-200">
+          <div className="md:col-2 bg-white p-6 relative bg-blue-200">
             <Image
               src="/placeholder.svg?height=200&width=600"
               alt="Business 4 background"
